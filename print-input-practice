@@ -1,0 +1,13 @@
+# print
+print("Hello, world")
+
+# input
+answer = input("what is your name?: ")
+print("Hi", answer)
+
+# practice
+noun = input("Enter a noun: ")
+adj = input("Enter an adjectie: ")
+verb = input("Enter a verb ending with ing: ")
+name = input("Enter a superman: ")
+print(adj, name, "is", verb, "on the tree with", noun)
